@@ -24,6 +24,8 @@ https://github.com/marcelocripe/Celluloid_pt_BR/blob/main/celluloid-celluloid-pt
 
 https://github.com/marcelocripe/Celluloid_pt_BR/blob/main/io.github.celluloid_player.Celluloid.desktop
 
+https://gitlab.com/Robin-antiX/antix23-desktop-files/-/tree/main/applications
+
 
 Para utilizar o arquivo "celluloid-celluloid-pt_BR.po" e o "io.github.celluloid_player.Celluloid.desktop", inicie o Emulador de Terminal na pasta onde estão os arquivos que foram baixados.
 
